@@ -61,6 +61,7 @@ public class Main {
 
         // =================Harga Pembelian dan Pehitungan================ //
         System.out.println("Selamat menikmati makanan anda...");
+        System.out.println();
         System.out.println("Pembelian : ");
         System.out.printf("\n1. Nasi Goreng Spesial      %d Porsi * 9999,99     = Rp. " + Menu1, A);
         System.out.printf("\n2. Ayam Goreng Spesial      %d Porsi * 12345,67    = Rp. " + Menu2, B);
